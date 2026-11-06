@@ -2,7 +2,7 @@
 
 A command-line Pokedex built in Go. Explore location areas, discover Pokémon, catch them, and inspect your collection — all from an interactive REPL.
 
-Built as part of the [Boot.dev](https://www.boot.dev) "Learn HTTP" course.
+Built as part of a [Boot.dev](https://www.boot.dev) course.
 
 ## Features
 
